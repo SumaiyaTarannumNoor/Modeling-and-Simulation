@@ -1,8 +1,8 @@
 ## Probability, Set and Event (Class Notes)
-- Flipa Coin
-  S1 = {H, T} <- Flip once
-  Flip Twice
-  S2 = {HH, HT, TH, TT} <- Probable outcomes
+- Flipa Coin <br>
+  S1 = {H, T} <- Flip once <br>
+  Flip Twice <br>
+  S2 = {HH, HT, TH, TT} <- Probable outcomes <br>
 
 |     | H   | T   |
 |-----|-----|-----|
@@ -38,16 +38,19 @@
   
 - Event space is a subset of sample space.
 - **We never calculate the probability of outcome, we calculate the probability of event.**
-- All possible events = 2^cardinal of S where S = {1,2, 3, 4, 5, 6}
-                      = 2^6 for S
-                      = 64 possible outcomes for S
-- Coin flip once
-     S = {H, T}
-     Ƒ(S) = {{H}, {T}, {H, T}, Φ}
-                         |     |
-                      Certain  Impossible
-                      Event   Event
--  P(w) = P({w}) <-- Probability of an event
+- All possible events = 2^cardinal of S where S = {1,2, 3, 4, 5, 6} <br>
+                      = 2^6 for S <br>
+                      = 64 possible outcomes for S <br>
+- Coin flip once S = {H, T}  
+```
+F(S) = {{H}, {T}, {H, T}, ∅}
+                    |     |
+                 Certain  Impossible
+                  Event    Event
+```
+
+
+-  P(w) = P({w}) <-- Probability of an event 
 
 - By definition P(Φ) = 0
 - **Power set is only possible for smaller sample space.**
@@ -55,27 +58,33 @@
 - Cardinality: number of elements in a set.
 - Set of Integer, Real number and Float all are infinite.
 
-  S ⊆ [0, 1] ∈ ℝ
-
-  Countable              Uncountable
-     ℕ                       ℝ
-     ℤ 
-     |                       |
+  S ⊆ [0, 1] ∈ ℝ <br>
+```
+Countable              Uncountable
+ℕ                       ℝ
+ℤ                        
+|                       | 
 Discrete PMF            Continuous PDF
+```
 
-PMF - Probability Mass Function
-PDF - Probability Density Function
+<br>
+<br>
 
-ℕ - Set of Natural Numbers (All positive Integers) {0, 1, 2, 3, .....}
-ℤ - Set of Integers (Both Positive and Negative) {....-3, -2, -1, 0, 1, 2, 3,....}
-ℝ - Set of Real Numbers (Positive, Negative, Integer and Float) {..., -2, -1.5, 1, 0.5, 0, 0.5, 1, 1.5, 2, ...}
+**PMF** - Probability Mass Function 
+
+**PDF** - Probability Density Function 
+<br>
+<br>
+ℕ - Set of Natural Numbers (All positive Integers) {0, 1, 2, 3, .....} <br>
+ℤ - Set of Integers (Both Positive and Negative) {....-3, -2, -1, 0, 1, 2, 3,....} <br>
+ℝ - Set of Real Numbers (Positive, Negative, Integer and Float) {..., -2, -1.5, 1, 0.5, 0, 0.5, 1, 1.5, 2, ...} <br>
 
 - Rational Number : Countable
-    Q = {p/q, where p, q ∈ ℤ, and q != 0}
+    Q = {p/q, where p, q ∈ ℤ, and q != 0} <br>
 
 - **Important Proves**
-  - Prove that rational number is countable.
-  - Prove that irrational number is uncountable.
+  - Prove that rational number is countable. <br>
+  - Prove that irrational number is uncountable.<br>
 
 - **For Countability**
   - Concept of Bijective Function/mapping -> one to one correspondence -> One to one and onto both
