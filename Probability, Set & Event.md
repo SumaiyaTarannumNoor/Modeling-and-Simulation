@@ -89,7 +89,7 @@ Discrete PMF            Continuous PDF
 - **For Countability**
   - Concept of Bijective Function/mapping -> one to one correspondence -> One to one and onto both
   - Concept of Injective Function/ one to one function
-  - Concept of Subjective Function/ onto both
+  - Concept of Surjective Function/ onto both
   
 
   
