@@ -33,11 +33,14 @@ In this example, the probability measure assigns a probability of 1/2 to both th
 
 The **power set** of a given set is the set of all possible subsets of that set, including the empty set and the set itself.
 
-Given a set \( A \), its power set, denoted as \( P(A) \) or \( \mathcal{P}(A) \), is the set of all possible subsets of \( A \).
+Given a set A, its power set, denoted as P(A), is the set of all possible subsets of A.
+
 - This includes:
   - The empty set (also known as the null set)
-  - The set \( A \) itself
-- **Subsets** are sets that contain only elements from the original set \( A \).
+  - The set A itself
+
+**Subsets** are sets that contain only elements from the original set A.
+
 
 ## Example 1
 
