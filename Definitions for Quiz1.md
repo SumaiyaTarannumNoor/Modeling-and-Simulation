@@ -1,4 +1,4 @@
-no## Definitions
+## Definitions
 
 **Sample Space (S):**  
 The set of all possible outcomes of a random experiment.
@@ -61,3 +61,41 @@ The **number of elements** in the power set (its cardinality) is \( 2^n \), wher
 
 - For example, if set \( A \) has 3 elements, its power set will have \( 2^3 = 8 \) elements.
 - If set \( B \) has 5 elements, its power set will have \( 2^5 = 32 \) elements.
+
+# Definitions: PMF and PDF
+
+## Probability Mass Function (PMF)
+
+A **Probability Mass Function (PMF)** describes the probability that a discrete random variable takes a specific value. The PMF gives the probability for each possible value.
+
+**Mathematical definition:**  
+For a discrete random variable X,  
+P(X = x) = p(x), where  
+- p(x) ≥ 0 for all x  
+- The sum over all x of p(x) = 1
+
+**Example:**  
+Let X be the outcome when rolling a fair six-sided die.  
+Possible values: 1, 2, 3, 4, 5, 6  
+p(x) = 1/6 for each x in {1, 2, 3, 4, 5, 6}
+
+---
+
+## Probability Density Function (PDF)
+
+A **Probability Density Function (PDF)** describes the relative likelihood for a continuous random variable to take on a value. The PDF itself is not a probability, but the area under the curve over an interval gives the probability for that interval.
+
+**Mathematical definition:**  
+For a continuous random variable X,  
+P(a ≤ X ≤ b) = ∫ from a to b of f(x) dx, where  
+- f(x) ≥ 0 for all x  
+- The integral from -∞ to ∞ of f(x) dx = 1
+
+**Example:**  
+Let X be a random variable with a uniform distribution on the interval [0, 1].  
+f(x) = 1 for 0 ≤ x ≤ 1  
+f(x) = 0 otherwise  
+Probability that X is between 0.2 and 0.5:  
+P(0.2 ≤ X ≤ 0.5) = ∫ from 0.2 to 0.5 of 1 dx = 0.5 - 0.2 = 0.3
+
+
