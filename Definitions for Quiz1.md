@@ -179,3 +179,30 @@ When rolling a standard die, the sample space S = {1, 2, 3, 4, 5, 6}
 
 ---
 Set theory provides the basic language and structure, while probability theory builds on it to measure uncertainty and chance.
+
+# Bertrand Paradox
+
+## Definition
+
+The **Bertrand Paradox** is a famous problem in probability theory that shows how the probability of an event can depend on the method used to define randomness. Specifically, the paradox arises when calculating the probability that a random chord in a circle is longer than the side of an equilateral triangle inscribed in that circle. The paradox demonstrates that "random" can have different meanings, leading to different answers depending on how randomness is defined.
+
+## Example
+
+Suppose you want to find the probability that a randomly chosen chord in a circle is longer than the side of an inscribed equilateral triangle.
+
+Depending on how you define "random chord," you can get different probabilities:
+
+- **Method 1:** Fix one endpoint of the chord and choose the other endpoint uniformly at random on the circle.  
+  Probability = 1/3
+
+- **Method 2:** Choose a random point inside the circle and draw a chord with that point as its midpoint.  
+  Probability = 1/2
+
+- **Method 3:** Choose a random radius, then pick a random point on that radius and draw the chord perpendicular to the radius at that point.  
+  Probability = 1/4
+
+Each method is valid, but leads to a different answer. This is the essence of the Bertrand Paradox: the outcome depends on the definition of randomness.
+
+---
+**Summary:**  
+The Bertrand Paradox highlights the importance of specifying how randomness is defined in probability problems, as different interpretations can yield different probabilities.
