@@ -294,3 +294,56 @@ While **cardinality** compares the "size" of infinite sets via one-to-one corres
 **Summary:**  
 - **Equicardinality** (Cantor): Two sets are the same "size" if there is a bijection between them, even if infinite.
 - **Measure of infinite sets:** Assigns a notion of "size" (like length or area) to sets; some infinite sets have measure zero, while others have positive measure.
+
+# Proof that the Set of Integers (Z) is Countable Using Bijective Mapping
+
+## Statement
+
+The set of all integers Z = {..., -3, -2, -1, 0, 1, 2, 3, ...} is **countable**.  
+A set is countable if there exists a bijection (one-to-one and onto mapping) between the set and the set of natural numbers N = {1, 2, 3, ...}.
+
+---
+
+## Proof by Constructing a Bijection
+
+We need to define a function f: N → Z that pairs every natural number with exactly one integer, and every integer with exactly one natural number.
+
+**Construction of the bijection:**
+
+Define the function f as follows:
+
+- f(1) = 0  
+- f(2) = 1  
+- f(3) = -1  
+- f(4) = 2  
+- f(5) = -2  
+- f(6) = 3  
+- f(7) = -3  
+- ... and so on.
+
+**In general:**
+- For even n:  f(n) = n / 2  
+- For odd n > 1: f(n) = -((n-1)/2)
+
+This mapping lists the integers in the order: 0, 1, -1, 2, -2, 3, -3, ...
+
+---
+
+## Why This is a Bijection
+
+- **Injective (One-to-One):**  
+  Every natural number n maps to a unique integer f(n), and no two different n map to the same integer.
+
+- **Surjective (Onto):**  
+  Every integer z will appear as f(n) for some n. For example:
+  - If z = 0, then n = 1.
+  - If z > 0, then n = 2z.
+  - If z < 0, then n = -2z + 1.
+
+So, every integer is paired with exactly one natural number, and vice versa.
+
+---
+
+## Conclusion
+
+Since we have constructed an explicit bijection between the natural numbers N and the integers Z, the set of integers is **countable**.
