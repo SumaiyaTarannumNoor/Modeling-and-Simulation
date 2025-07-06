@@ -98,4 +98,43 @@ f(x) = 0 otherwise
 Probability that X is between 0.2 and 0.5:  
 P(0.2 ≤ X ≤ 0.5) = ∫ from 0.2 to 0.5 of 1 dx = 0.5 - 0.2 = 0.3
 
+# Probability Theory
 
+## Definition
+
+**Probability theory** is the branch of mathematics that deals with the analysis of random phenomena. It provides a systematic way to quantify uncertainty, describing how likely an event is to occur. Probability values range from 0 (the event never happens) to 1 (the event always happens).
+
+## Example
+
+Suppose you toss a fair coin. There are two possible outcomes: heads (H) or tails (T).
+
+- The probability of getting heads, P(H), is 1/2.
+- The probability of getting tails, P(T), is also 1/2.
+
+This means each outcome is equally likely.
+
+## Properties of Probability
+
+1. **Non-negativity:**  
+   For any event A, the probability is always greater than or equal to 0.  
+   P(A) ≥ 0
+
+2. **Normalization (Total Probability):**  
+   The probability of the sample space (the set of all possible outcomes) is 1.  
+   P(S) = 1
+
+3. **Additivity (For mutually exclusive events):**  
+   If two events A and B cannot both happen at the same time, then  
+   P(A or B) = P(A) + P(B)
+
+4. **Complementary Rule:**  
+   The probability that an event A does not occur is 1 minus the probability that it does occur.  
+   P(not A) = 1 - P(A)
+
+5. **Range:**  
+   For any event A, the probability is between 0 and 1.  
+   0 ≤ P(A) ≤ 1
+
+---
+**Summary:**  
+Probability theory provides rules and tools to model and analyze situations involving uncertainty and randomness. It is foundational in statistics, science, engineering, and everyday decision-making.
