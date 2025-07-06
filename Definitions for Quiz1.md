@@ -347,3 +347,132 @@ So, every integer is paired with exactly one natural number, and vice versa.
 ## Conclusion
 
 Since we have constructed an explicit bijection between the natural numbers N and the integers Z, the set of integers is **countable**.
+
+# Probability: Closure Properties, Axioms, and Key Theorems
+
+## Closure Properties
+
+### Event Space
+
+Let S be a sample space.  
+An **event space** (also called an algebra or field of sets) F is a collection of subsets of S (events) such that:
+
+1. **Closure under Complement:**  
+   If A ∈ F, then Aᶜ ∈ F.
+
+2. **Closure under Union:**  
+   If A, B ∈ F, then (A ∪ B) ∈ F.
+
+3. **Closure under Intersection:**  
+   If A, B ∈ F, then (A ∩ B) ∈ F.  
+   (Follows from De Morgan's laws and the other properties.)
+
+4. **Contains S and ∅:**  
+   S ∈ F, ∅ ∈ F.
+
+---
+
+### Field
+
+A **field** (or algebra) of sets over S is a non-empty collection F of subsets of S such that:
+
+- **A ∈ F ⇒ Aᶜ ∈ F**
+- **A, B ∈ F ⇒ (A ∪ B) ∈ F**
+- **A, B ∈ F ⇒ (A ∩ B) ∈ F** (by De Morgan's laws)
+
+---
+
+### Sigma Field (σ-field)
+
+A **sigma field** (σ-field) is a field with the additional property:
+
+- **Closure under Countable Unions:**  
+  If A₁, A₂, A₃, ... ∈ F, then (⋃ₙ Aₙ) ∈ F.
+
+- **Closure under Countable Intersections:**  
+  If A₁, A₂, A₃, ... ∈ F, then (⋂ₙ Aₙ) ∈ F.
+  
+---
+
+## Axioms of Probability
+
+Given a sample space S and a σ-field F of events, a **probability measure** P satisfies:
+
+1. **Non-negativity:**  
+   For all A ∈ F, P(A) ≥ 0
+
+2. **Normalization:**  
+   P(S) = 1
+
+3. **Countable Additivity:**  
+   For any countable sequence of mutually exclusive events {A₁, A₂, ...} (Aᵢ ∩ Aⱼ = ∅ for i ≠ j),  
+   P(⋃ₙ Aₙ) = Σₙ P(Aₙ)
+
+---
+
+## Conditional Probability
+
+The **conditional probability** of event A given event B (with P(B) > 0) is:
+
+P(A | B) = P(A ∩ B) / P(B)
+
+**Example:**  
+If a card is drawn from a standard deck, let A = "card is a heart", B = "card is red".  
+P(A) = 13/52, P(B) = 26/52, P(A ∩ B) = 13/52  
+P(A | B) = (13/52) / (26/52) = 1/2
+
+---
+
+## Bayes' Theorem
+
+Bayes' Theorem relates conditional probabilities:
+
+P(A | B) = [P(B | A) × P(A)] / P(B)
+
+**Example:**  
+Suppose 1% of a population has a disease (A), and a test is 99% accurate (P(B | A) = 0.99, P(B | Aᶜ) = 0.01).  
+If a person tests positive (B), what is the probability they actually have the disease?
+
+P(A) = 0.01,  
+P(B | A) = 0.99,  
+P(B | Aᶜ) = 0.01,  
+P(Aᶜ) = 0.99
+
+P(B) = P(B | A)P(A) + P(B | Aᶜ)P(Aᶜ)  
+= (0.99)(0.01) + (0.01)(0.99) = 0.0198
+
+P(A | B) = (0.99 × 0.01) / 0.0198 ≈ 0.5
+
+---
+
+## Law of Total Probability
+
+If {B₁, B₂, ..., Bₙ} is a partition of S (mutually exclusive and exhaustive), then for any event A:
+
+P(A) = Σₖ P(A | Bₖ) × P(Bₖ)
+
+**Example:**  
+Suppose a factory has 2 machines:  
+- Machine 1 produces 60% of items (P(B₁) = 0.6), defect rate 2% (P(A | B₁) = 0.02)
+- Machine 2 produces 40% (P(B₂) = 0.4), defect rate 5% (P(A | B₂) = 0.05)
+
+Total probability an item is defective:  
+P(A) = P(A | B₁)P(B₁) + P(A | B₂)P(B₂)  
+= (0.02)(0.6) + (0.05)(0.4)  
+= 0.012 + 0.02 = 0.032
+
+---
+
+**Summary Table**
+
+| Concept               | Symbolic Property                                  |
+|-----------------------|----------------------------------------------------|
+| Closure (union)       | A, B ∈ F ⇒ (A ∪ B) ∈ F                            |
+| Closure (complement)  | A ∈ F ⇒ Aᶜ ∈ F                                    |
+| Sigma field           | {A₁, A₂, ...} ⊆ F ⇒ (⋃ₙ Aₙ) ∈ F                   |
+| Axiom (non-negativity)| P(A) ≥ 0                                           |
+| Axiom (normalization) | P(S) = 1                                           |
+| Additivity            | P(⋃ₙ Aₙ) = Σₙ P(Aₙ) for disjoint events            |
+| Conditional Prob.     | P(A | B) = P(A ∩ B) / P(B)                         |
+| Bayes' Theorem        | P(A | B) = [P(B | A) × P(A)] / P(B)                |
+| Total Probability     | P(A) = Σₖ P(A | Bₖ) × P(Bₖ)                        |
