@@ -206,3 +206,50 @@ Each method is valid, but leads to a different answer. This is the essence of th
 ---
 **Summary:**  
 The Bertrand Paradox highlights the importance of specifying how randomness is defined in probability problems, as different interpretations can yield different probabilities.
+
+# How Do We Measure the Countability of an Infinite Set?
+
+## Definition
+
+A set is called **countable** (or countably infinite) if its elements can be put into a one-to-one correspondence with the set of natural numbers N = {1, 2, 3, ...}. In other words, a set S is countable if we can list its elements as s₁, s₂, s₃, ... such that every element of S appears exactly once in this list.
+
+If such a listing is not possible, the set is called **uncountable**.
+
+## Mathematical Proof Example: The Set of Integers is Countable
+
+Let's prove that the set of all integers Z = {..., -3, -2, -1, 0, 1, 2, 3, ...} is countable.
+
+### Proof
+
+1. We need to show a one-to-one correspondence (bijection) between the set of natural numbers N and the set of integers Z.
+2. We can construct a function f: N → Z that "lists" all the integers.
+
+Define the function as follows:
+
+- f(1) = 0
+- f(2) = 1
+- f(3) = -1
+- f(4) = 2
+- f(5) = -2
+- f(6) = 3
+- f(7) = -3
+- ... and so on.
+
+More generally:
+- For even n: f(n) = n/2
+- For odd n > 1: f(n) = -[(n-1)/2]
+
+This function assigns a unique natural number to each integer and vice versa. Thus, we have created a one-to-one correspondence between N and Z.
+
+**Conclusion:**  
+Z is countably infinite.
+
+---
+
+## Uncountable Example: The Real Numbers
+
+The set of real numbers between 0 and 1 is **uncountable**. This can be shown by Cantor's diagonal argument, which proves that no listing of all real numbers in (0, 1) is possible.
+
+**Summary:**  
+- An infinite set is **countable** if its elements can be listed in a sequence indexed by natural numbers.
+- If this is not possible, the set is **uncountable**.
