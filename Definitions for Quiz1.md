@@ -138,3 +138,44 @@ This means each outcome is equally likely.
 ---
 **Summary:**  
 Probability theory provides rules and tools to model and analyze situations involving uncertainty and randomness. It is foundational in statistics, science, engineering, and everyday decision-making.
+
+# Difference Between Set Theory and Probability Theory
+
+## Set Theory
+
+- Set theory is the branch of mathematics that studies sets, which are collections of distinct objects.
+- The objects in a set are called elements or members.
+- Set theory focuses on the relationships between sets, such as union, intersection, and complement.
+- It forms the foundation for various mathematical concepts, including probability, logic, and functions.
+
+**Example:**  
+Let A = {1, 2, 3}, B = {2, 3, 4}  
+- The union of A and B (A ∪ B) = {1, 2, 3, 4}  
+- The intersection of A and B (A ∩ B) = {2, 3}
+
+---
+
+## Probability Theory
+
+- Probability theory is the branch of mathematics concerned with quantifying uncertainty and analyzing random phenomena.
+- It uses the language of set theory to describe events, but assigns a probability value (between 0 and 1) to the likelihood of those events.
+- Probability theory introduces the concept of a probability measure, which assigns probabilities to sets (events) within a sample space.
+
+**Example:**  
+When rolling a standard die, the sample space S = {1, 2, 3, 4, 5, 6}  
+- The event "rolling an even number" is E = {2, 4, 6}  
+- The probability of event E is P(E) = 3/6 = 1/2
+
+---
+
+## Summary Table
+
+| Aspect            | Set Theory                          | Probability Theory                          |
+|-------------------|-------------------------------------|---------------------------------------------|
+| Focus             | Relationships between sets          | Quantifying likelihood of events            |
+| Main Concept      | Sets and their operations           | Probability measure on sets (events)        |
+| Example Question  | What is A ∩ B?                      | What is the probability of event E?         |
+| Application       | Foundations of mathematics, logic   | Statistics, risk analysis, decision making  |
+
+---
+Set theory provides the basic language and structure, while probability theory builds on it to measure uncertainty and chance.
