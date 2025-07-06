@@ -44,26 +44,26 @@ Given a set A, its power set, denoted as P(A), is the set of all possible subset
 
 ## Example 1
 
-Let’s say we have a set \( A = \{1, 2\} \).  
-The subsets of \( A \) are:
-- The empty set: \( \{\} \) or \( \varnothing \)
-- The singleton sets: \( \{1\} \) and \( \{2\} \)
-- The set itself: \( \{1, 2\} \)
+Let’s say we have a set A = {1, 2}.  
+The subsets of A are:  
+- The empty set: {}  
+- The singleton sets: {1} and {2}  
+- The set itself: {1, 2}
 
-Therefore, the power set of \( A \) is:  
-\( P(A) = \{\ \{\},\ \{1\},\ \{2\},\ \{1, 2\}\ \} \)
+Therefore, the power set of A is:  
+P(A) = { {}, {1}, {2}, {1, 2} }
 
 ## Example 2
 
-If set \( B = \{a, b, c\} \), then its power set \( P(B) \) would be:  
-\( P(B) = \{\ \{\},\ \{a\},\ \{b\},\ \{c\},\ \{a, b\},\ \{a, c\},\ \{b, c\},\ \{a, b, c\}\ \} \)
+If set B = {a, b, c}, then its power set P(B) would be:  
+P(B) = { {}, {a}, {b}, {c}, {a, b}, {a, c}, {b, c}, {a, b, c} }
 
 ## Cardinality
 
-The **number of elements** in the power set (its cardinality) is \( 2^n \), where \( n \) is the number of elements in the original set.
+The **number of elements** in the power set (its cardinality) is 2^n, where n is the number of elements in the original set.
 
-- For example, if set \( A \) has 3 elements, its power set will have \( 2^3 = 8 \) elements.
-- If set \( B \) has 5 elements, its power set will have \( 2^5 = 32 \) elements.
+- For example, if set A has 3 elements, its power set will have 2^3 = 8 elements.  
+- If set B has 5 elements, its power set will have 2^5 = 32 elements.
 
 # Definitions: PMF and PDF
 
