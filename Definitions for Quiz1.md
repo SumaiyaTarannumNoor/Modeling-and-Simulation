@@ -253,3 +253,44 @@ The set of real numbers between 0 and 1 is **uncountable**. This can be shown by
 **Summary:**  
 - An infinite set is **countable** if its elements can be listed in a sequence indexed by natural numbers.
 - If this is not possible, the set is **uncountable**.
+
+
+# Equicardinality and the "Measure" of Infinite Sets
+
+## Equicardinality (by Georg Cantor)
+
+**Equicardinality** is a concept introduced by Georg Cantor to compare the sizes (cardinalities) of sets, including infinite sets. Two sets A and B are **equicardinal** (or have the same cardinality) if there exists a one-to-one correspondence (bijection) between the elements of A and the elements of B.
+
+- If such a correspondence exists, we write |A| = |B|, meaning the sets have the same cardinality.
+- This idea allows us to rigorously compare the "sizes" of infinite sets, even when both are infinite.
+
+**Example:**  
+- The set of natural numbers N = {1, 2, 3, ...}  
+- The set of even numbers E = {2, 4, 6, ...}
+
+There is a bijection f: N → E defined by f(n) = 2n.  
+Therefore, |N| = |E|, even though E is a proper subset of N.
+
+---
+
+## "Measure" of Infinite Sets
+
+While **cardinality** compares the "size" of infinite sets via one-to-one correspondence, the concept of **measure** deals with assigning a "length," "area," or "volume" to sets, particularly in real analysis.
+
+- For finite sets, measure is just the count of elements.
+- For infinite sets, measure is more subtle.
+
+**Key points:**
+- Some infinite sets, like the set of real numbers between 0 and 1, have infinite cardinality (specifically, uncountable).
+- In measure theory, the set of all real numbers between 0 and 1 has a measure (length) of 1.
+- A countable set (like the natural numbers or the rationals in [0, 1]) has measure zero, even though it is infinite in cardinality.
+
+**Example:**
+- The interval (0, 1) has uncountable cardinality and measure 1.
+- The set of rational numbers in (0, 1) is countably infinite, but its measure is 0.
+
+---
+
+**Summary:**  
+- **Equicardinality** (Cantor): Two sets are the same "size" if there is a bijection between them, even if infinite.
+- **Measure of infinite sets:** Assigns a notion of "size" (like length or area) to sets; some infinite sets have measure zero, while others have positive measure.
