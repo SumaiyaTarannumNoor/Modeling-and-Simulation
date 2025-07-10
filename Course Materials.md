@@ -2,7 +2,11 @@
 - https://www.amazon.com/Probability-Random-Variables-Stochastic-Processes/dp/0071226613
   
 ## BOOK PDF
+### Probability, Random Variables and Stochastic Processes
 - https://sharif.ir/~bahram/sp4cl/MainReferences/Papoulis-ProbabilityRandomVariablesAndStochasticProcesses.pdf
+  
+### Introduction to Probability for Data Science
+- https://probability4datascience.com/index.html
   
 ## BOOK SOLUTION MANUAL PDF
 - https://ece307.cankaya.edu.tr/uploads/files/solution-manual.pdf
