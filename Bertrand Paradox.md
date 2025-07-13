@@ -1,5 +1,6 @@
 # Bertrand Paradox
-
+## Book reference 
+- **Papoulis,Page 8-9, Example 1-3**
 - The Bertrand paradox refers to a problem in probability where different, seemingly reasonable methods for randomly selecting a chord within a circle lead to different probabilities for the chord being longer than the side of an inscribed equilateral triangle.
 - This highlights how the method of generating random variables is crucial for well-defined probability problems.
 - In economics, the Bertrand paradox describes a situation in Nash equilibrium where two firms, competing on price, end up setting prices equal to marginal cost, a result counterintuitive to the typical expectation of price above marginal cost in a duopoly.
