@@ -7,6 +7,9 @@
   
 ### Introduction to Probability for Data Science
 - https://probability4datascience.com/index.html
+
+### Introduction to Probability Models by Sheldon Ross
+
   
 ## BOOK SOLUTION MANUAL PDF
 - https://ece307.cankaya.edu.tr/uploads/files/solution-manual.pdf
