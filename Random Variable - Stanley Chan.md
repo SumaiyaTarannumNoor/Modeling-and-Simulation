@@ -36,4 +36,13 @@ function which specifies the probability of obtaining a number X(ξ) = x. We den
 PMF as
 pX (x) = P[X = x]. (3.1)
 The set of all possible states of X is denoted as X(Ω).
--
+
+
+- Key Concept 2: What are probability mass functions (PMFs)?
+PMFs are the ideal histograms of random variables.
+
+### CDF (Discrete)
+- Page 121
+- A CDF is essentially the cumulative sum of a PMF from −∞ to x, where the variable x′ in
+the sum is a dummy variable.
+
