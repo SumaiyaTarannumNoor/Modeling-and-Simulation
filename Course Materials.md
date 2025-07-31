@@ -12,6 +12,7 @@
 
   
 ## BOOK SOLUTION MANUAL PDF
+### Probability, Random Variables and Stochastic Processes with Errata Sheet (Int'l Ed) 4th Edition
 - https://ece307.cankaya.edu.tr/uploads/files/solution-manual.pdf
 
 ## MIT RES.6-012 Introduction to Probability, Spring 2018
