@@ -12,5 +12,5 @@
 - https://youtu.be/N3I2ZLbh6zQ?si=-Q2PoFM1ehpQcz1L
 ## Probability Calculation: Discrete Example - L01.7
 - https://youtu.be/AsSQdpZdP8U?si=g0JDkiw3CLe6RVQq
-## Probability Calculation: Continuous Example
+## Probability Calculation: Continuous Example - L01.8
 - https://youtu.be/NbYB0fiHoCs?si=EN3lOLGo6zbJHiKU
