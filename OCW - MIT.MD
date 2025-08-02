@@ -4,4 +4,5 @@
 - https://youtu.be/iQ2edOqEQAs?si=2sYbNqdwyzawZ4GN
 ## Discrete and Continuous Sample Space Examples - L01.3
 - https://youtu.be/__T3eJtjoic?si=6IVZ14aS75qtcf0g
-
+## Axioms of Probabilistic Models - L01.4
+- https://youtu.be/pA83XtLeVig?si=KPZz4rxU4ttsAq9U
