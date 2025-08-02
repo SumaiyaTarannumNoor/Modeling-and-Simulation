@@ -6,3 +6,5 @@
 - https://youtu.be/__T3eJtjoic?si=6IVZ14aS75qtcf0g
 ## Axioms of Probabilistic Models - L01.4
 - https://youtu.be/pA83XtLeVig?si=KPZz4rxU4ttsAq9U
+## Some Simple Consequences of the Axioms - L01.5
+- https://youtu.be/WTyLg_I1oFY?si=LpZxS3AIEIoVTOyM
