@@ -8,3 +8,5 @@
 - https://youtu.be/pA83XtLeVig?si=KPZz4rxU4ttsAq9U
 ## Some Simple Consequences of the Axioms - L01.5
 - https://youtu.be/WTyLg_I1oFY?si=LpZxS3AIEIoVTOyM
+## More Consequences of the Axioms - L01.6
+- https://youtu.be/N3I2ZLbh6zQ?si=-Q2PoFM1ehpQcz1L
