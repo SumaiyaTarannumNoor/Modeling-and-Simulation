@@ -10,5 +10,7 @@
 - https://youtu.be/WTyLg_I1oFY?si=LpZxS3AIEIoVTOyM
 ## More Consequences of the Axioms - L01.6
 - https://youtu.be/N3I2ZLbh6zQ?si=-Q2PoFM1ehpQcz1L
-## Probability Calculation: Discrete Example
+## Probability Calculation: Discrete Example - L01.7
 - https://youtu.be/AsSQdpZdP8U?si=g0JDkiw3CLe6RVQq
+## Probability Calculation: Continuous Example
+- https://youtu.be/NbYB0fiHoCs?si=EN3lOLGo6zbJHiKU
