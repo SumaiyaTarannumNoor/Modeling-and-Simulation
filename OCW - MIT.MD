@@ -14,3 +14,5 @@
 - https://youtu.be/AsSQdpZdP8U?si=g0JDkiw3CLe6RVQq
 ## 8. Probability Calculation: Continuous Example - L01.8
 - https://youtu.be/NbYB0fiHoCs?si=EN3lOLGo6zbJHiKU
+## 9. Probability Calculation: Discrete but Infinite Sample Space (Countable Additivity Axiom) - L01.9
+- https://youtu.be/mUxg3j_h5GM?si=HDntGgs_x2aj2GHB
