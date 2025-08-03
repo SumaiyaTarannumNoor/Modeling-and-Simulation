@@ -20,4 +20,6 @@
 - https://youtu.be/uGGTX2ypzKI?si=dg_7otUJQXe39QJt
 ## 11. Mathematical Background Overview - S01.0
 - https://youtu.be/47W1ApSRUqs?si=utveEKY0xPevskbm
+## 12. Set and Set Properties - S01.1
+- https://youtu.be/47W1ApSRUqs?si=mHMqQ2aPeH0nUt6Y
 
