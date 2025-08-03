@@ -18,3 +18,6 @@
 - https://youtu.be/mUxg3j_h5GM?si=HDntGgs_x2aj2GHB
 ## 10. Interpretations of Probability Theory - L01.10
 - https://youtu.be/uGGTX2ypzKI?si=dg_7otUJQXe39QJt
+## 11. Mathematical Background Overview - S01.0
+- https://youtu.be/47W1ApSRUqs?si=utveEKY0xPevskbm
+
