@@ -16,3 +16,5 @@
 - https://youtu.be/NbYB0fiHoCs?si=EN3lOLGo6zbJHiKU
 ## 9. Probability Calculation: Discrete but Infinite Sample Space (Countable Additivity Axiom) - L01.9
 - https://youtu.be/mUxg3j_h5GM?si=HDntGgs_x2aj2GHB
+## 10. Interpretations of Probability Theory - L01.10
+- https://youtu.be/uGGTX2ypzKI?si=dg_7otUJQXe39QJt
