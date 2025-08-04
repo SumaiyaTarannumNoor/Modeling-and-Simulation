@@ -26,4 +26,5 @@
 - https://youtu.be/pdR9hV8mRWE?si=7lJGltWQHoCzZqOQ
 ## 14. Mathematical Background: Sequences and Their Limits - S01.3
 - https://youtu.be/kuhlfBPQPq0?si=wQx55GL0GD9OjQP4
-
+## 15. Mathematical Background: When does a sequence converge? - S01.4
+- https://youtu.be/Lgacew5BjDI?si=3o4mwsJ2haV7hZFb
