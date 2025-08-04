@@ -24,4 +24,6 @@
 - https://youtu.be/47W1ApSRUqs?si=mHMqQ2aPeH0nUt6Y
 ## 13. De Morgan's Laws - S01.2
 - https://youtu.be/pdR9hV8mRWE?si=7lJGltWQHoCzZqOQ
+## 14. Mathematical Background: Sequences and Their Limits - S01.3
+- https://youtu.be/kuhlfBPQPq0?si=wQx55GL0GD9OjQP4
 
