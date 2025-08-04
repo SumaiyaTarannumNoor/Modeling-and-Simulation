@@ -22,4 +22,6 @@
 - https://youtu.be/47W1ApSRUqs?si=utveEKY0xPevskbm
 ## 12. Set and Set Properties - S01.1
 - https://youtu.be/47W1ApSRUqs?si=mHMqQ2aPeH0nUt6Y
+## 13. De Morgan's Laws - S01.2
+- https://youtu.be/pdR9hV8mRWE?si=7lJGltWQHoCzZqOQ
 
