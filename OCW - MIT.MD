@@ -28,3 +28,5 @@
 - https://youtu.be/kuhlfBPQPq0?si=wQx55GL0GD9OjQP4
 ## 15. Mathematical Background: When does a sequence converge? - S01.4
 - https://youtu.be/Lgacew5BjDI?si=3o4mwsJ2haV7hZFb
+## 16. Mathematical Background: Infinite Series - S01.5
+- https://youtu.be/nYe4OZVCnIs?si=QE0T9Ik89DDJGE_F
