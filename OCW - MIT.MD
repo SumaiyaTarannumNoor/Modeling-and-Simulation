@@ -30,3 +30,5 @@
 - https://youtu.be/Lgacew5BjDI?si=3o4mwsJ2haV7hZFb
 ## 16. Mathematical Background: Infinite Series - S01.5
 - https://youtu.be/nYe4OZVCnIs?si=QE0T9Ik89DDJGE_F
+## 17. Mathematical Background: Geometric Series - S01.6
+- https://youtu.be/cCmWW7Hu43A?si=ogNJGVTbVfLNrr_J
