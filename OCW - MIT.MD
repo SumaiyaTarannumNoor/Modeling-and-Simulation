@@ -38,3 +38,5 @@
 - https://youtu.be/MqocbJ-FPo0?si=i-EN09-1_pZGLXDb
 ## 20. Cantor's Diagonalization Argument (The Reals are Uncountable) - S01.9
 - https://youtu.be/YIZd23zGV3M?si=cNx37coeYoyhUbnq
+## 21. Interpreting the Union Bound and Bonferroni Inequality - S01.10
+- https://youtu.be/0xuRh3dz_Nc?si=xrIAzZTuyE3AfiNm
