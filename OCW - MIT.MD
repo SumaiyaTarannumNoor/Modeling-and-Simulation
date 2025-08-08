@@ -36,3 +36,5 @@
 - https://youtu.be/9QJt03983Gg?si=egEtKBBLuhO3kQJd
 ## 19. Countable and Uncountable Sets - S01.8
 - https://youtu.be/MqocbJ-FPo0?si=i-EN09-1_pZGLXDb
+## 20. Cantor's Diagonalization Argument (The Reals are Uncountable) - S01.9
+- https://youtu.be/YIZd23zGV3M?si=cNx37coeYoyhUbnq
