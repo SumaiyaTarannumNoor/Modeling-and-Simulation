@@ -34,3 +34,5 @@
 - https://youtu.be/cCmWW7Hu43A?si=ogNJGVTbVfLNrr_J
 ## 18. About the Order of Summation in Series with Multiple Indicies - S01.7
 - https://youtu.be/9QJt03983Gg?si=egEtKBBLuhO3kQJd
+## 19. Countable and Uncountable Sets - S01.8
+- https://youtu.be/MqocbJ-FPo0?si=i-EN09-1_pZGLXDb
