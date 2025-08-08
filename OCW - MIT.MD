@@ -32,3 +32,5 @@
 - https://youtu.be/nYe4OZVCnIs?si=QE0T9Ik89DDJGE_F
 ## 17. Mathematical Background: Geometric Series - S01.6
 - https://youtu.be/cCmWW7Hu43A?si=ogNJGVTbVfLNrr_J
+## 18. About the Order of Summation in Series with Multiple Indicies - S01.7
+- https://youtu.be/9QJt03983Gg?si=egEtKBBLuhO3kQJd
