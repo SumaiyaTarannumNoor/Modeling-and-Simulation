@@ -52,3 +52,5 @@
 - https://youtu.be/uL31gpFdarc?si=u1rT3DCyyoQAZ0HF
 ## 27. The Multiplication Rule - L02.6
 - https://youtu.be/ugzs7dgQ-JE?si=a4n2ibr66H4f6kZr
+## 28. Total Probability Theorem - L02.7
+- https://youtu.be/8odFouBR2wE?si=t6Itadgq7_VgUmvu
