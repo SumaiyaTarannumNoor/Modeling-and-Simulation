@@ -44,3 +44,5 @@
 - https://youtu.be/B5y6fy5iUtg?si=p9dljc2XEcdwCWEp
 ## 23. Conditional Probabilities - L02.2
 - https://youtu.be/MPRKc4UPoJk?si=8Nc06iDB_3bbl34c
+## 24. A Die Roll Example - L02.3
+- https://youtu.be/YenDB3yOfDc?si=vj3gY3gO8MkGEb9G
