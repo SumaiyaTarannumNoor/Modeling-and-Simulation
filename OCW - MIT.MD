@@ -50,3 +50,5 @@
 - https://youtu.be/L_pEeYLGaP0?si=gYX4lgKRNRJKK2XY
 ## 26. Models Based on Conditional Probabilities (Radar and Aeroplane Example) - L02.5
 - https://youtu.be/uL31gpFdarc?si=u1rT3DCyyoQAZ0HF
+## 27. The Multiplication Rule - L02.6
+- https://youtu.be/ugzs7dgQ-JE?si=a4n2ibr66H4f6kZr
