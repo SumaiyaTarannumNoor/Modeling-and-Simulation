@@ -48,3 +48,5 @@
 - https://youtu.be/YenDB3yOfDc?si=vj3gY3gO8MkGEb9G
 ## 25. Conditional Probabilities Share Properties of Ordinary Probabilities - L02.4
 - https://youtu.be/L_pEeYLGaP0?si=gYX4lgKRNRJKK2XY
+## 26. Models Based on Conditional Probabilities (Radar and Aeroplane Example) - L02.5
+- https://youtu.be/uL31gpFdarc?si=u1rT3DCyyoQAZ0HF
