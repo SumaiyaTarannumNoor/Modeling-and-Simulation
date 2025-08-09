@@ -40,3 +40,5 @@
 - https://youtu.be/YIZd23zGV3M?si=cNx37coeYoyhUbnq
 ## 21. Interpreting the Union Bound and Bonferroni Inequality - S01.10
 - https://youtu.be/0xuRh3dz_Nc?si=xrIAzZTuyE3AfiNm
+## 22. Conditioning and Bayes' Rule - L02.1
+- https://youtu.be/B5y6fy5iUtg?si=p9dljc2XEcdwCWEp
