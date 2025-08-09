@@ -54,3 +54,5 @@
 - https://youtu.be/ugzs7dgQ-JE?si=a4n2ibr66H4f6kZr
 ## 28. Total Probability Theorem - L02.7
 - https://youtu.be/8odFouBR2wE?si=t6Itadgq7_VgUmvu
+## 29. Bayes' Rule - L02.8
+- https://youtu.be/kz2tvO_ZAKI?si=gTXgXws9at0QKWhE
