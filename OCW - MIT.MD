@@ -42,3 +42,5 @@
 - https://youtu.be/0xuRh3dz_Nc?si=xrIAzZTuyE3AfiNm
 ## 22. Conditioning and Bayes' Rule - L02.1
 - https://youtu.be/B5y6fy5iUtg?si=p9dljc2XEcdwCWEp
+## 23. Conditional Probabilities - L02.2
+- https://youtu.be/MPRKc4UPoJk?si=8Nc06iDB_3bbl34c
