@@ -46,3 +46,5 @@
 - https://youtu.be/MPRKc4UPoJk?si=8Nc06iDB_3bbl34c
 ## 24. A Die Roll Example - L02.3
 - https://youtu.be/YenDB3yOfDc?si=vj3gY3gO8MkGEb9G
+## 25. Conditional Probabilities Share Properties of Ordinary Probabilities - L02.4
+- https://youtu.be/L_pEeYLGaP0?si=gYX4lgKRNRJKK2XY
