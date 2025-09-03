@@ -56,3 +56,5 @@
 - https://youtu.be/8odFouBR2wE?si=t6Itadgq7_VgUmvu
 ## 29. Bayes' Rule - L02.8
 - https://youtu.be/kz2tvO_ZAKI?si=gTXgXws9at0QKWhE
+## 30. Lecture Overview - Independence - L03.1
+- https://youtu.be/QXKgTPR_8wk?si=9r36Se0zX913yCnk
