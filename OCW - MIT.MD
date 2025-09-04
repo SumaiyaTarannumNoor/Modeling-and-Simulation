@@ -58,3 +58,5 @@
 - https://youtu.be/kz2tvO_ZAKI?si=gTXgXws9at0QKWhE
 ## 30. Lecture Overview - Independence - L03.1
 - https://youtu.be/QXKgTPR_8wk?si=9r36Se0zX913yCnk
+## 31. A Coin Tossing Example: A Model Based on Conditional Probabilities - L03.2
+- https://youtu.be/rZKUmNvCjis?si=QNBJ-uLD_bgl96HZ
