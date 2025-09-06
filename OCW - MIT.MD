@@ -60,3 +60,5 @@
 - https://youtu.be/QXKgTPR_8wk?si=9r36Se0zX913yCnk
 ## 31. A Coin Tossing Example: A Model Based on Conditional Probabilities - L03.2
 - https://youtu.be/rZKUmNvCjis?si=QNBJ-uLD_bgl96HZ
+## 32. Independence of Two Events - LO3.3 
+- https://youtu.be/w423ypsUHf0?si=JwUetdEm0XqjtRkW
