@@ -62,3 +62,5 @@
 - https://youtu.be/rZKUmNvCjis?si=QNBJ-uLD_bgl96HZ
 ## 32. Independence of Two Events - LO3.3 
 - https://youtu.be/w423ypsUHf0?si=JwUetdEm0XqjtRkW
+## 33. Independence of Event Complements - L03.4
+- https://youtu.be/JZkT3NU2mPM?si=dVDb4vHt4FsOVK-y
