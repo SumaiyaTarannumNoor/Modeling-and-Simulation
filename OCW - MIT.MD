@@ -68,3 +68,5 @@
 - https://youtu.be/7B3cDe39lwY?si=je5rQztx2PH9aCx3 
 ## 35. Independence Versus Conditional Independence - L03.6
 - https://youtu.be/TAyA-rjmesQ?si=_TMmc7_boLJMhVJT
+## 36. Independence of a Collection of Events - L03.7
+- https://youtu.be/UbQcqFH33G0?si=s5TNwDRtoqGE8QCn
