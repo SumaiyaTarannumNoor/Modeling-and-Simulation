@@ -66,3 +66,5 @@
 - https://youtu.be/JZkT3NU2mPM?si=dVDb4vHt4FsOVK-y
 ## 34. Conditional Independence - L03.5 **
 - https://youtu.be/7B3cDe39lwY?si=je5rQztx2PH9aCx3 
+## 35. Independence Versus Conditional Independence - L03.6
+- https://youtu.be/TAyA-rjmesQ?si=_TMmc7_boLJMhVJT
