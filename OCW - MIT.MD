@@ -74,3 +74,5 @@
 - https://youtu.be/aJXfyfQs2Mc?si=fT-a5NbIawc2ZrgD
 ## 38. Reliability -L03.9
 - https://youtu.be/UDkq_cLVSmc?si=CsQ9i0Kg8Lpy_dDP
+## 39. The King's Sibling - L03.10
+- https://youtu.be/iPWyElxtk-8?si=aY-17NpGxUVeZs-g
