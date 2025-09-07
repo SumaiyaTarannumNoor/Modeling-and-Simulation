@@ -70,3 +70,5 @@
 - https://youtu.be/TAyA-rjmesQ?si=_TMmc7_boLJMhVJT
 ## 36. Independence of a Collection of Events - L03.7
 - https://youtu.be/UbQcqFH33G0?si=s5TNwDRtoqGE8QCn
+## 37. Independence Versus Pairwise Independence - L03.8
+- https://youtu.be/aJXfyfQs2Mc?si=fT-a5NbIawc2ZrgD
