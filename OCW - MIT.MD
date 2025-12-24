@@ -90,3 +90,5 @@
 - https://youtu.be/2f9EfEga4Oo?si=xhSZxWdzmnwB6jfU
 ## 46. Partitions (Multinomial Coefficient) - L04.7
 - https://youtu.be/hJjiCrdsNV8?si=d9EEe56otyGisS-i
+## 47. Each Person Gets An Ace - L04.8
+- https://youtu.be/IC-pnm6PEGk?si=xH3M2WdfPV2HZRT-
