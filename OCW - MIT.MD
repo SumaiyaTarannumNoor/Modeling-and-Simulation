@@ -84,3 +84,6 @@
 - https://youtu.be/KrjZyCRi29o?si=jzU9HdGtabHhdbeI
 ## 43. Combinations Problems Discussion - L04.4
 - https://youtu.be/o_qO7RYBF10?si=wMV8InI6fjnU3Aek
+## 44. Binomial Probabilities - L04.5
+- https://youtu.be/8llkkbCPHb4?si=ccakXyRzLDMxBvaL
+- 
