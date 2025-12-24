@@ -78,3 +78,5 @@
 - https://youtu.be/iPWyElxtk-8?si=aY-17NpGxUVeZs-g
 ## 40. Lecture Overview - Discrete Uniform Law - L04.1
 - https://youtu.be/poeHeiiiLKI?si=qcr0fIsIlJpU7qHW
+## 41. The Counting Principle - L04.2
+- https://youtu.be/-k8WU-KB0rk?si=mEvjnTwvo-Nete8q
