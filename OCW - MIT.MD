@@ -80,3 +80,5 @@
 - https://youtu.be/poeHeiiiLKI?si=qcr0fIsIlJpU7qHW
 ## 41. The Counting Principle - L04.2
 - https://youtu.be/-k8WU-KB0rk?si=mEvjnTwvo-Nete8q
+## 42. Die Roll Example - L04.3
+- https://youtu.be/KrjZyCRi29o?si=jzU9HdGtabHhdbeI
