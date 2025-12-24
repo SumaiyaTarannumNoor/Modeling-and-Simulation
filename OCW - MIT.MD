@@ -86,4 +86,5 @@
 - https://youtu.be/o_qO7RYBF10?si=wMV8InI6fjnU3Aek
 ## 44. Binomial Probabilities - L04.5
 - https://youtu.be/8llkkbCPHb4?si=ccakXyRzLDMxBvaL
-- 
+## 45. A Coin Tossing Example - L04.6
+- https://youtu.be/2f9EfEga4Oo?si=xhSZxWdzmnwB6jfU
