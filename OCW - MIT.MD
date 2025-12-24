@@ -96,3 +96,5 @@
 - https://youtu.be/5A_H1eHbOCY?si=8Lmvb1KjMu_Q3FQC
 ## 49. Lecture Overview - Discrete Random Variables - L05.1
 - https://youtu.be/ArfHGPHL8kU?si=gAOqj-B9P22UaJgm
+## 50. Definition of Random Variables - L05.2
+- https://youtu.be/vfqPpai_9jI?si=ykMtgqGNE8kWU_Si
