@@ -92,3 +92,5 @@
 - https://youtu.be/hJjiCrdsNV8?si=d9EEe56otyGisS-i
 ## 47. Each Person Gets An Ace - L04.8
 - https://youtu.be/IC-pnm6PEGk?si=xH3M2WdfPV2HZRT-
+## 48. Multinomial Probabilities - L04.9
+- https://youtu.be/5A_H1eHbOCY?si=8Lmvb1KjMu_Q3FQC
