@@ -76,3 +76,5 @@
 - https://youtu.be/UDkq_cLVSmc?si=CsQ9i0Kg8Lpy_dDP
 ## 39. The King's Sibling - L03.10
 - https://youtu.be/iPWyElxtk-8?si=aY-17NpGxUVeZs-g
+## 40. Lecture Overview - Discrete Uniform Law - L04.1
+- https://youtu.be/poeHeiiiLKI?si=qcr0fIsIlJpU7qHW
