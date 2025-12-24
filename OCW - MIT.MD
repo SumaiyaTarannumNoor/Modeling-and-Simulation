@@ -94,3 +94,5 @@
 - https://youtu.be/IC-pnm6PEGk?si=xH3M2WdfPV2HZRT-
 ## 48. Multinomial Probabilities - L04.9
 - https://youtu.be/5A_H1eHbOCY?si=8Lmvb1KjMu_Q3FQC
+## 49. Lecture Overview - Discrete Random Variables - L05.1
+- https://youtu.be/ArfHGPHL8kU?si=gAOqj-B9P22UaJgm
