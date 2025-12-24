@@ -82,3 +82,5 @@
 - https://youtu.be/-k8WU-KB0rk?si=mEvjnTwvo-Nete8q
 ## 42. Die Roll Example - L04.3
 - https://youtu.be/KrjZyCRi29o?si=jzU9HdGtabHhdbeI
+## 43. Combinations Problems Discussion - L04.4
+- https://youtu.be/o_qO7RYBF10?si=wMV8InI6fjnU3Aek
