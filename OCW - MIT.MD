@@ -102,3 +102,5 @@
 - https://youtu.be/zW1_iugJvF0?si=j6qtqYhzNS15Lxb-
 ## 52. Bernoulli & Indicator Random Variables - L05.4
 - https://youtu.be/J8L9kRGSvSY?si=lClHnMDBwm4_iRzu
+## 53. Uniform Random Variables - L05.5
+- https://youtu.be/JoQDJMZA7F8?si=zTeKLmKyoSs-qeaF
