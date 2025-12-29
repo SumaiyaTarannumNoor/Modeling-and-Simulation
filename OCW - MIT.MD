@@ -100,3 +100,5 @@
 - https://youtu.be/vfqPpai_9jI?si=ykMtgqGNE8kWU_Si
 ## 51. Probability Mass Functions (PMF) - L05.3
 - https://youtu.be/zW1_iugJvF0?si=j6qtqYhzNS15Lxb-
+## 52. Bernoulli & Indicator Random Variables - L05.4
+- https://youtu.be/J8L9kRGSvSY?si=lClHnMDBwm4_iRzu
