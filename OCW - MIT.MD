@@ -98,3 +98,5 @@
 - https://youtu.be/ArfHGPHL8kU?si=gAOqj-B9P22UaJgm
 ## 50. Definition of Random Variables - L05.2
 - https://youtu.be/vfqPpai_9jI?si=ykMtgqGNE8kWU_Si
+## 51. Probability Mass Functions (PMF) - L05.3
+- https://youtu.be/zW1_iugJvF0?si=j6qtqYhzNS15Lxb-
