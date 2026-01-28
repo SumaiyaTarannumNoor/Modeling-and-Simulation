@@ -104,3 +104,5 @@
 - https://youtu.be/J8L9kRGSvSY?si=lClHnMDBwm4_iRzu
 ## 53. Uniform Random Variables - L05.5
 - https://youtu.be/JoQDJMZA7F8?si=zTeKLmKyoSs-qeaF
+## 54. Binomial Random Variables - L05.6
+- https://youtu.be/jOC4ATKBWlI?si=GUX1xYCXzzAKU5YP
