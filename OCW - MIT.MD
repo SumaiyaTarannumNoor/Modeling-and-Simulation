@@ -110,3 +110,5 @@
 - https://youtu.be/whbKmwMmB4s?si=BrxXjEDIUVRYQ9MR
 ## 56. Expectation - L05.8
 - https://youtu.be/_yJsO5955ZE?si=R8GnzTPlbE9HneZo
+## 57. Elementary Properties of Expectation - L05.9
+- https://youtu.be/GARQ31BrKQA?si=KYbWgXFplOEUUoW1
