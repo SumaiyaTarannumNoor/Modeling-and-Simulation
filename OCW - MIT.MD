@@ -108,3 +108,5 @@
 - https://youtu.be/jOC4ATKBWlI?si=GUX1xYCXzzAKU5YP
 ## 55. Geometric Random Variables - L05.7
 - https://youtu.be/whbKmwMmB4s?si=BrxXjEDIUVRYQ9MR
+## 56. Expectation - L05.8
+- https://youtu.be/_yJsO5955ZE?si=R8GnzTPlbE9HneZo
