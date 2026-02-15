@@ -6,3 +6,6 @@
 
 ### Markov Chain Monte Carlo Explained in 10 minutes 
 - https://youtu.be/3qodjHRUxAo?si=ybranqBCIvEW1H00
+
+### Markov Chain Monte Carlo (MCMC) - Explained 
+- https://youtu.be/nndtTssgtZE?si=tPDRwSKDIN-VeMos
