@@ -114,3 +114,5 @@
 - https://youtu.be/GARQ31BrKQA?si=KYbWgXFplOEUUoW1
 ## 58. The Expected Value Rule - L05.10
 - https://youtu.be/gB5TCCfF6e4?si=B1cO7k8M7jPC6JKd
+## 59. Linearity of Expectations - L05.11
+- https://youtu.be/0IJFBMIU6x4?si=SdOcVaOuicQFQpXc
