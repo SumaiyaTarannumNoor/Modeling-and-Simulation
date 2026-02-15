@@ -112,3 +112,5 @@
 - https://youtu.be/_yJsO5955ZE?si=R8GnzTPlbE9HneZo
 ## 57. Elementary Properties of Expectation - L05.9
 - https://youtu.be/GARQ31BrKQA?si=KYbWgXFplOEUUoW1
+## 58. The Expected Value Rule - L05.10
+- https://youtu.be/gB5TCCfF6e4?si=B1cO7k8M7jPC6JKd
