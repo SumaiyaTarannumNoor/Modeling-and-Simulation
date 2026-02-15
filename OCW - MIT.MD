@@ -116,3 +116,5 @@
 - https://youtu.be/gB5TCCfF6e4?si=B1cO7k8M7jPC6JKd
 ## 59. Linearity of Expectations - L05.11
 - https://youtu.be/0IJFBMIU6x4?si=SdOcVaOuicQFQpXc
+## 60. An Introduction to Functions - S05.1
+- https://youtu.be/Xwd4ABlO0Dc?si=anaJJtC-tQxQyRXB
