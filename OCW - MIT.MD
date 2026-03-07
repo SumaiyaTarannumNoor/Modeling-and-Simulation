@@ -120,3 +120,5 @@
 - https://youtu.be/Xwd4ABlO0Dc?si=anaJJtC-tQxQyRXB
 ## 61. Lecture Overview for Variance, Conditioning on an Event; Multiple Random Variables - L06.1
 - https://youtu.be/n9FTM9f9A6I?si=cCJBxQeNF1u-Q84e
+## 62. Variance = L06.2
+- https://youtu.be/ZWo1XgAQE5k?si=xCJkIBGIPTxkl7dk
