@@ -118,3 +118,5 @@
 - https://youtu.be/0IJFBMIU6x4?si=SdOcVaOuicQFQpXc
 ## 60. An Introduction to Functions - S05.1
 - https://youtu.be/Xwd4ABlO0Dc?si=anaJJtC-tQxQyRXB
+## 61. Lecture Overview for Variance, Conditioning on an Event; Multiple Random Variables - L06.1
+- https://youtu.be/n9FTM9f9A6I?si=cCJBxQeNF1u-Q84e
