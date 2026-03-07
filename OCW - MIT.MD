@@ -122,5 +122,7 @@
 - https://youtu.be/n9FTM9f9A6I?si=cCJBxQeNF1u-Q84e
 ## 62. Variance = L06.2
 - https://youtu.be/ZWo1XgAQE5k?si=xCJkIBGIPTxkl7dk
-## 63. The Variance of the Bernoulli & The Uniform -L06.3
+## 63. The Variance of the Bernoulli & The Uniform - L06.3
 - https://youtu.be/7_livg-uaVs?si=3SyY_MM1ZDmWY5JY
+## 64.  Conditional PMFs & Expectations Given an Event - L06.4
+- https://youtu.be/2_KBeHiUDiY?si=zfDMYERI0fIzt6nP
