@@ -134,3 +134,5 @@
 - https://youtu.be/7nu97OYx4X4?si=XO788x5uteEB6hoA
 ## 68. Linearity of Expectations & The Mean of the Binomial - L06.8
 - https://youtu.be/TbRh71BMJvw?si=zd_NhiXX8rk6hf6r
+## 69. Lecture Overview for Conditioning on a random variable; Independence of r.v.'s - L07.1
+- https://youtu.be/17Z89x_ZWQ4?si=HrVjcxK8Jqx_Jw-2
