@@ -126,5 +126,7 @@
 - https://youtu.be/7_livg-uaVs?si=3SyY_MM1ZDmWY5JY
 ## 64.  Conditional PMFs & Expectations Given an Event - L06.4
 - https://youtu.be/2_KBeHiUDiY?si=zfDMYERI0fIzt6nP
- ## 65. Total Expectation Theorem
+ ## 65. Total Expectation Theorem - L06.5
 - https://youtu.be/GnEyIawrWBg?si=VFtQ58RTC60Z1BA4
+## 66. Geometric PMF Memorylessness & Expectation - L06.6
+- https://youtu.be/MuqLI4otMIQ?si=hwaPeAYkg3xxMssU
