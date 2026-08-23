@@ -130,3 +130,5 @@
 - https://youtu.be/GnEyIawrWBg?si=VFtQ58RTC60Z1BA4
 ## 66. Geometric PMF Memorylessness & Expectation - L06.6
 - https://youtu.be/MuqLI4otMIQ?si=hwaPeAYkg3xxMssU
+## 67. Joint PMFs and the Expected Value Rule - L06.7
+- https://youtu.be/7nu97OYx4X4?si=XO788x5uteEB6hoA
