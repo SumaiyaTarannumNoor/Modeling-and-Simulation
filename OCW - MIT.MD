@@ -136,3 +136,5 @@
 - https://youtu.be/TbRh71BMJvw?si=zd_NhiXX8rk6hf6r
 ## 69. Lecture Overview for Conditioning on a random variable; Independence of r.v.'s - L07.1
 - https://youtu.be/17Z89x_ZWQ4?si=HrVjcxK8Jqx_Jw-2
+## 70. Conditional PMFs - L07.2
+- https://youtu.be/T_Q3M_HV94w?si=RQf64yZ2s3c5ioPF
