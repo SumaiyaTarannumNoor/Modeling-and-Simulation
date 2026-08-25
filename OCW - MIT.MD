@@ -138,5 +138,7 @@
 - https://youtu.be/17Z89x_ZWQ4?si=HrVjcxK8Jqx_Jw-2
 ## 70. Conditional PMFs - L07.2
 - https://youtu.be/T_Q3M_HV94w?si=RQf64yZ2s3c5ioPF
-## 71. Conditional Expectation & Total Expectation Theorem
+## 71. Conditional Expectation & Total Expectation Theorem - L07.3
 - https://youtu.be/vJAG4EzSQZA?si=iY87V558EuyoKrJV
+## 72. Independence of Random Variables - L07.4
+- https://youtu.be/F6H50Hbulbk?si=K533v9yHT_VRj_yk
