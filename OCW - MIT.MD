@@ -142,3 +142,5 @@
 - https://youtu.be/vJAG4EzSQZA?si=iY87V558EuyoKrJV
 ## 72. Independence of Random Variables - L07.4
 - https://youtu.be/F6H50Hbulbk?si=K533v9yHT_VRj_yk
+## 73. Independence and Conditional Independence Example - L07.5
+- https://youtu.be/JsEvwRGa1JA?si=k4ElKc1-nQKk13p3
