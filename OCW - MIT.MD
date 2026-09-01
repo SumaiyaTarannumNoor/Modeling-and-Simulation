@@ -144,3 +144,5 @@
 - https://youtu.be/F6H50Hbulbk?si=K533v9yHT_VRj_yk
 ## 73. Independence and Conditional Independence Example - L07.5
 - https://youtu.be/JsEvwRGa1JA?si=k4ElKc1-nQKk13p3
+## 74. Independence & Expectations - L07.6
+- https://youtu.be/R4nGGs0m7lo?si=mgJqUhY2zgSFxapR
