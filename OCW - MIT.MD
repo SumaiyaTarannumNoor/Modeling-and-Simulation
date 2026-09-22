@@ -148,3 +148,5 @@
 - https://youtu.be/R4nGGs0m7lo?si=mgJqUhY2zgSFxapR
 ## 75. Independence, Variances & the Binomial Variance - L07.7
 - https://youtu.be/YQ26hzI4OJk?si=3trpi-TxQHqy68UT
+## 76. The Hat Problem
+- https://youtu.be/Kycmb2IwV-Y?si=GmHduip1d4iteP38
