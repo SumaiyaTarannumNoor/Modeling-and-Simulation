@@ -158,7 +158,7 @@
 - https://youtu.be/GOmLwHaa8Ik?si=dQ9XhYkYJ-Wb-2on
 ## 80. Lecture Overview for Continuous Random Variables and Probability Density Function - L08.1
 - https://youtu.be/eXf2Zak-s0o?si=ao_H6f-PzpuOjHev
-## 81. Probability Density Functions (PDFs)
+## 81. Probability Density Functions (PDFs) - L08.2
 - https://youtu.be/8QFpZ3FndBc?si=tMBsa4stMZ0EGqqe
 ## 82. Uniform & Piecewise Constant PDFs - L08.3
 - https://youtu.be/jPB9zI8F7rE?si=sTF8OViv2gXDTBhH
