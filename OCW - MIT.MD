@@ -164,3 +164,5 @@
 - https://youtu.be/jPB9zI8F7rE?si=sTF8OViv2gXDTBhH
 ## 83. Means & Variances -L08.4
 - https://youtu.be/wOmfOJyxZ6M?si=gPbvy6tckp_BoVkI
+## 84. Mean & Variance of the Uniform - L08.5
+- https://youtu.be/bXmDp8R8n8U?si=ZfyLiEJH6y_VFB5g
