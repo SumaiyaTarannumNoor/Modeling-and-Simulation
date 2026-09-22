@@ -146,3 +146,5 @@
 - https://youtu.be/JsEvwRGa1JA?si=k4ElKc1-nQKk13p3
 ## 74. Independence & Expectations - L07.6
 - https://youtu.be/R4nGGs0m7lo?si=mgJqUhY2zgSFxapR
+## 75. Independence, Variances & the Binomial Variance - L07.7
+- https://youtu.be/YQ26hzI4OJk?si=3trpi-TxQHqy68UT
