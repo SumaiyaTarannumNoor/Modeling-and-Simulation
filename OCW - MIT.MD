@@ -162,3 +162,5 @@
 - https://youtu.be/8QFpZ3FndBc?si=tMBsa4stMZ0EGqqe
 ## 82. Uniform & Piecewise Constant PDFs - L08.3
 - https://youtu.be/jPB9zI8F7rE?si=sTF8OViv2gXDTBhH
+## 83. Means & Variances -L08.4
+- https://youtu.be/wOmfOJyxZ6M?si=gPbvy6tckp_BoVkI
