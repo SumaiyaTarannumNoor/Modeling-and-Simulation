@@ -160,3 +160,5 @@
 - https://youtu.be/eXf2Zak-s0o?si=ao_H6f-PzpuOjHev
 ## 81. Probability Density Functions (PDFs)
 - https://youtu.be/8QFpZ3FndBc?si=tMBsa4stMZ0EGqqe
+## 82. Uniform & Piecewise Constant PDFs - L08.3
+- https://youtu.be/jPB9zI8F7rE?si=sTF8OViv2gXDTBhH
