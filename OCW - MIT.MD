@@ -150,5 +150,7 @@
 - https://youtu.be/YQ26hzI4OJk?si=3trpi-TxQHqy68UT
 ## 76. The Hat Problem
 - https://youtu.be/Kycmb2IwV-Y?si=GmHduip1d4iteP38
-## 77. The Inclusion-Exclusion Formula
+## 77. The Inclusion-Exclusion Formula - S07.1
 - https://youtu.be/WXIU2tK4qtc?si=d19QPNcQsabhMQga
+## 78. The Variance of the Geometric PMF - S07.2
+- https://youtu.be/sSWHT2kbkvc?si=mE1LulNc9Wxv1aVz
