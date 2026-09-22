@@ -156,3 +156,5 @@
 - https://youtu.be/sSWHT2kbkvc?si=mE1LulNc9Wxv1aVz
 ## 79. Independence of Random Variables Versus Independence of Events - S07.3
 - https://youtu.be/GOmLwHaa8Ik?si=dQ9XhYkYJ-Wb-2on
+## 80. Lecture Overview for Continuous Random Variables and Probability Density Function - L08.1
+- https://youtu.be/eXf2Zak-s0o?si=ao_H6f-PzpuOjHev
