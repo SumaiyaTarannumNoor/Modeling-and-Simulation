@@ -154,3 +154,5 @@
 - https://youtu.be/WXIU2tK4qtc?si=d19QPNcQsabhMQga
 ## 78. The Variance of the Geometric PMF - S07.2
 - https://youtu.be/sSWHT2kbkvc?si=mE1LulNc9Wxv1aVz
+## 79. Independence of Random Variables Versus Independence of Events - S07.3
+- https://youtu.be/GOmLwHaa8Ik?si=dQ9XhYkYJ-Wb-2on
