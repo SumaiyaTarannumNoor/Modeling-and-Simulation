@@ -150,3 +150,5 @@
 - https://youtu.be/YQ26hzI4OJk?si=3trpi-TxQHqy68UT
 ## 76. The Hat Problem
 - https://youtu.be/Kycmb2IwV-Y?si=GmHduip1d4iteP38
+## 77. The Inclusion-Exclusion Formula
+- https://youtu.be/WXIU2tK4qtc?si=d19QPNcQsabhMQga
