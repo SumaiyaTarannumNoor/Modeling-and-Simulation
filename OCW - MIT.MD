@@ -172,3 +172,5 @@
 - https://youtu.be/4QeL1ma_XJ0?si=NLY-7LrLRSIh-pc-
 ## 87. Normal Random Variables - L08.8
 - https://youtu.be/6UMv4vb4y7c?si=lQ-9u5VUCCTijArv
+## 88. Calculation of Normal Probabilities - L08.9
+- https://youtu.be/DrBIORgOzSA?si=iT1gmI2YwDLKeqql
