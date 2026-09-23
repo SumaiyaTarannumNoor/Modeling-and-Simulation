@@ -168,3 +168,5 @@
 - https://youtu.be/bXmDp8R8n8U?si=ZfyLiEJH6y_VFB5g
 ## 85. Exponential Random Variables - L08.6
 - https://youtu.be/FOFtMqCxZt0?si=agchcqST5nSs91-M
+## 86. Cumulative Distribution Functions - L08.7
+- https://youtu.be/4QeL1ma_XJ0?si=NLY-7LrLRSIh-pc-
