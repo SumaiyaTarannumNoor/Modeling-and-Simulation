@@ -170,3 +170,5 @@
 - https://youtu.be/FOFtMqCxZt0?si=agchcqST5nSs91-M
 ## 86. Cumulative Distribution Functions (CDF) - L08.7
 - https://youtu.be/4QeL1ma_XJ0?si=NLY-7LrLRSIh-pc-
+## 87. Normal Random Variables - L08.8
+- https://youtu.be/6UMv4vb4y7c?si=lQ-9u5VUCCTijArv
