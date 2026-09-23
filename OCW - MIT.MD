@@ -176,3 +176,5 @@
 - https://youtu.be/DrBIORgOzSA?si=iT1gmI2YwDLKeqql
 ## 89. Lecture Overview for Conditioning on an event; Multiple continuous r.v.'s - L09.1
 - https://youtu.be/G11r4Srh4u8?si=EXp8DoaalAcEXGFz
+## 90. Conditioning A Continuous Random Variable on an Event - L09.2
+- https://youtu.be/mHj4A1gh_ws?si=E_Z5aqLr_qRXsshL
