@@ -178,3 +178,5 @@
 - https://youtu.be/G11r4Srh4u8?si=EXp8DoaalAcEXGFz
 ## 90. Conditioning A Continuous Random Variable on an Event - L09.2
 - https://youtu.be/mHj4A1gh_ws?si=E_Z5aqLr_qRXsshL
+## 91. Conditioning Example - L09.3
+- https://youtu.be/5CHUuMZZzSY?si=jUMqp9bKfPsM1-vO
