@@ -174,3 +174,5 @@
 - https://youtu.be/6UMv4vb4y7c?si=lQ-9u5VUCCTijArv
 ## 88. Calculation of Normal Probabilities - L08.9
 - https://youtu.be/DrBIORgOzSA?si=iT1gmI2YwDLKeqql
+## 89. Lecture Overview for Conditioning on an event; Multiple continuous r.v.'s - L09.1
+- https://youtu.be/G11r4Srh4u8?si=EXp8DoaalAcEXGFz
