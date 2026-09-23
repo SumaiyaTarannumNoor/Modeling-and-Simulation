@@ -166,3 +166,5 @@
 - https://youtu.be/wOmfOJyxZ6M?si=gPbvy6tckp_BoVkI
 ## 84. Mean & Variance of the Uniform - L08.5
 - https://youtu.be/bXmDp8R8n8U?si=ZfyLiEJH6y_VFB5g
+## 85. Exponential Random Variables - L08.6
+- https://youtu.be/FOFtMqCxZt0?si=agchcqST5nSs91-M
